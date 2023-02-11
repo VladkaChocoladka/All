@@ -1,0 +1,8 @@
+﻿  2_Laba.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\filesystem(13): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+C:\Users\vladb\Desktop\Prog\Inf\221(2)\Blokhin\2_Laba\2_Laba\2_Laba\2_Laba.cpp(104,17): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\vladb\Desktop\Prog\Inf\221(2)\Blokhin\2_Laba\2_Laba\2_Laba\2_Laba.cpp(117,17): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\vladb\Desktop\Prog\Inf\221(2)\Blokhin\2_Laba\2_Laba\2_Laba\2_Laba.cpp(215,17): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\vladb\Desktop\Prog\Inf\221(2)\Blokhin\2_Laba\2_Laba\2_Laba\2_Laba.cpp(228,17): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\vladb\Desktop\Prog\Inf\221(2)\Blokhin\2_Laba\2_Laba\2_Laba\2_Laba.cpp(241,17): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  2_Laba.vcxproj -> C:\Users\vladb\Desktop\Prog\Inf\221(2)\Blokhin\2_Laba\2_Laba\x64\Debug\2_Laba.exe
