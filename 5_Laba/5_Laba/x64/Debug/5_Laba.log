@@ -1,0 +1,12 @@
+﻿  5_Laba.cpp
+C:\Users\vladb\Desktop\Prog\Информатика(2-Семестр)\221(2)\Zemtsov\5_Laba\5_Laba\5_Laba\5_Laba.cpp(13,22): warning C4244: аргумент: преобразование "double" в "__int64", возможна потеря данных
+C:\Users\vladb\Desktop\Prog\Информатика(2-Семестр)\221(2)\Zemtsov\5_Laba\5_Laba\5_Laba\5_Laba.cpp(17,17): warning C4244: аргумент: преобразование "double" в "__int64", возможна потеря данных
+  Giant.cpp
+  planet.cpp
+  skyBodies.cpp
+C:\Users\vladb\Desktop\Prog\Информатика(2-Семестр)\221(2)\Zemtsov\5_Laba\5_Laba\5_Laba\skyBodies.cpp(64,11): warning C4244: инициализация: преобразование "__int64" в "double", возможна потеря данных
+C:\Users\vladb\Desktop\Prog\Информатика(2-Семестр)\221(2)\Zemtsov\5_Laba\5_Laba\5_Laba\skyBodies.cpp(65,59): warning C4307: "*": переполнение целой константы со знаком
+C:\Users\vladb\Desktop\Prog\Информатика(2-Семестр)\221(2)\Zemtsov\5_Laba\5_Laba\5_Laba\skyBodies.cpp(65,64): warning C4307: "*": переполнение целой константы со знаком
+  Stars.cpp
+  Создание кода...
+  5_Laba.vcxproj -> C:\Users\vladb\Desktop\Prog\Информатика(2-Семестр)\221(2)\Zemtsov\5_Laba\5_Laba\x64\Debug\5_Laba.exe
